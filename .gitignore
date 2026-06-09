@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+sample/
+output/
+*.zip
+# manter os pesos do melhor modelo no repo (exigência da disciplina):
+!bio_orbit_acv_marco_best.keras
